@@ -1,0 +1,73 @@
+52.137.60.154:443,Microsoft Corporation,Amsterdam,Netherlands (NL) ðŸ‡³ðŸ‡±,AS8075 Microsoft Corporation
+13.230.34.30:443,Amazon Technologies Inc.,Tokyo,Japan (JP) ðŸ‡¯ðŸ‡µ,AS16509 Amazon.com, Inc.
+129.146.46.164:443,Oracle Corporation,Phoenix,United States (US) ðŸ‡ºðŸ‡¸,AS31898 Oracle Corporation
+20.220.204.217:443,Microsoft Corporation,Toronto,Canada (CA) ðŸ‡¨ðŸ‡¦,AS8075 Microsoft Corporation
+193.123.81.105:443,Oracle Corporation,Dubai,United Arab Emirates (AE) ðŸ‡¦ðŸ‡ª,AS31898 Oracle Corporation
+4.255.56.138:443,Microsoft Corporation,Boydton,United States (US) ðŸ‡ºðŸ‡¸,AS8075 Microsoft Corporation
+4.255.56.137:443,Microsoft Corporation,Boydton,United States (US) ðŸ‡ºðŸ‡¸,AS8075 Microsoft Corporation
+20.62.202.159:443,Microsoft Corporation,Boydton,United States (US) ðŸ‡ºðŸ‡¸,AS8075 Microsoft Corporation
+138.3.254.39:443,Oracle Corporation,Frankfurt am Main,Germany (DE) ðŸ‡©ðŸ‡ª,AS31898 Oracle Corporation
+155.248.202.141:443,Oracle Corporation,San Jose,United States (US) ðŸ‡ºðŸ‡¸,AS31898 Oracle Corporation
+192.9.180.162:443,Oracle Corporation,Sydney,Australia (AU) ðŸ‡¦ðŸ‡º,AS31898 Oracle Corporation
+129.146.248.140:443,Oracle Corporation,Phoenix,United States (US) ðŸ‡ºðŸ‡¸,AS31898 Oracle Corporation
+152.67.249.123:443,Oracle Corporation,San Jose,United States (US) ðŸ‡ºðŸ‡¸,AS31898 Oracle Corporation
+158.101.175.51:443,Oracle Corporation,Frankfurt am Main,Germany (DE) ðŸ‡©ðŸ‡ª,AS31898 Oracle Corporation
+141.148.229.106:443,Oracle Corporation,Amsterdam,Netherlands (NL) ðŸ‡³ðŸ‡±,AS31898 Oracle Corporation
+130.61.23.77:443,Oracle Corporation,Frankfurt am Main,Germany (DE) ðŸ‡©ðŸ‡ª,AS31898 Oracle Corporation
+158.179.203.23:443,Oracle Corporation,Stockholm,Sweden (SE) ðŸ‡¸ðŸ‡ª,AS31898 Oracle Corporation
+129.146.254.39:443,Oracle Corporation,Phoenix,United States (US) ðŸ‡ºðŸ‡¸,AS31898 Oracle Corporation
+144.22.252.124:443,Oracle Corporation,SÃ£o Paulo,Brazil (BR) ðŸ‡§ðŸ‡·,AS31898 Oracle Corporation
+193.123.235.59:443,Oracle Corporation,Seoul,South Korea (KR) ðŸ‡°ðŸ‡·,AS31898 Oracle Corporation
+84.235.169.234:443,Oracle Corporation,Amsterdam,Netherlands (NL) ðŸ‡³ðŸ‡±,AS31898 Oracle Corporation
+34.123.83.237:443,Google LLC,Council Bluffs,United States (US) ðŸ‡ºðŸ‡¸,AS396982 Google LLC
+141.144.232.159:443,Oracle Corporation,Frankfurt am Main,Germany (DE) ðŸ‡©ðŸ‡ª,AS31898 Oracle Corporation
+64.110.104.30:443,Oracle Corporation,Osaka,Japan (JP) ðŸ‡¯ðŸ‡µ,AS31898 Oracle Corporation
+155.248.196.123:443,Oracle Corporation,San Jose,United States (US) ðŸ‡ºðŸ‡¸,AS31898 Oracle Corporation
+129.159.84.71:443,Oracle Corporation,Ashburn,United States (US) ðŸ‡ºðŸ‡¸,AS31898 Oracle Corporation
+168.138.46.67:443,Oracle Corporation,Osaka,Japan (JP) ðŸ‡¯ðŸ‡µ,AS31898 Oracle Corporation
+144.24.83.39:443,Oracle Corporation,Chuncheon,South Korea (KR) ðŸ‡°ðŸ‡·,AS31898 Oracle Corporation
+140.83.86.166:443,Oracle Corporation,Osaka,Japan (JP) ðŸ‡¯ðŸ‡µ,AS31898 Oracle Corporation
+140.238.195.98:443,Oracle Corporation,Sydney,Australia (AU) ðŸ‡¦ðŸ‡º,AS31898 Oracle Corporation
+140.238.33.161:443,Oracle Corporation,Tokyo,Japan (JP) ðŸ‡¯ðŸ‡µ,AS31898 Oracle Corporation
+213.35.105.46:443,Oracle Corporation,Singapore,Singapore (SG) ðŸ‡¸ðŸ‡¬,AS31898 Oracle Corporation
+138.3.222.33:443,Oracle Corporation,Tokyo,Japan (JP) ðŸ‡¯ðŸ‡µ,AS31898 Oracle Corporation
+150.136.61.148:443,Oracle Corporation,Ashburn,United States (US) ðŸ‡ºðŸ‡¸,AS31898 Oracle Corporation
+129.146.7.98:443,Oracle Corporation,Phoenix,United States (US) ðŸ‡ºðŸ‡¸,AS31898 Oracle Corporation
+152.70.249.67:443,Oracle Corporation,Seoul,South Korea (KR) ðŸ‡°ðŸ‡·,AS31898 Oracle Corporation
+192.18.159.129:443,Oracle Corporation,Toronto,Canada (CA) ðŸ‡¨ðŸ‡¦,AS31898 Oracle Corporation
+192.18.148.248:443,Oracle Corporation,Toronto,Canada (CA) ðŸ‡¨ðŸ‡¦,AS31898 Oracle Corporation
+47.57.14.118:443,Alibaba (US) Technology Co., Ltd.,Hong Kong,Hong Kong (HK) ðŸ‡­ðŸ‡°,AS45102 Alibaba (US) Technology Co., Ltd.
+149.129.8.215:443,Alibaba (US) Technology Co., Ltd.,Seoul,South Korea (KR) ðŸ‡°ðŸ‡·,AS45102 Alibaba (US) Technology Co., Ltd.
+47.90.141.204:443,Alibaba.com LLC,Charlottesville,United States (US) ðŸ‡ºðŸ‡¸,AS45102 Alibaba (US) Technology Co., Ltd.
+47.57.233.126:443,Alibaba (US) Technology Co., Ltd.,Hong Kong,Hong Kong (HK) ðŸ‡­ðŸ‡°,AS45102 Alibaba (US) Technology Co., Ltd.
+35.197.23.75:443,Google LLC,The Dalles,United States (US) ðŸ‡ºðŸ‡¸,AS396982 Google LLC
+34.66.72.229:443,Google LLC,Council Bluffs,United States (US) ðŸ‡ºðŸ‡¸,AS396982 Google LLC
+34.88.63.160:443,Google LLC,Lappeenranta,Finland (FI) ðŸ‡«ðŸ‡®,AS396982 Google LLC
+47.57.13.107:443,Alibaba (US) Technology Co., Ltd.,Hong Kong,Hong Kong (HK) ðŸ‡­ðŸ‡°,AS45102 Alibaba (US) Technology Co., Ltd.
+35.230.79.26:443,Google LLC,The Dalles,United States (US) ðŸ‡ºðŸ‡¸,AS396982 Google LLC
+47.57.245.232:443,Alibaba (US) Technology Co., Ltd.,Hong Kong,Hong Kong (HK) ðŸ‡­ðŸ‡°,AS45102 Alibaba (US) Technology Co., Ltd.
+34.41.252.92:443,Google LLC,Council Bluffs,United States (US) ðŸ‡ºðŸ‡¸,AS396982 Google LLC
+13.51.55.184:2053,Amazon Technologies Inc.,Stockholm,Sweden (SE) ðŸ‡¸ðŸ‡ª,AS16509 Amazon.com, Inc.
+13.53.54.176:8080,Amazon Technologies Inc.,Stockholm,Sweden (SE) ðŸ‡¸ðŸ‡ª,AS16509 Amazon.com, Inc.
+3.101.110.90:80,Amazon.com, Inc.,San Jose,United States (US) ðŸ‡ºðŸ‡¸,AS16509 Amazon.com, Inc.
+13.41.76.64:8080,Amazon Technologies Inc.,London,United Kingdom (GB) ðŸ‡¬ðŸ‡§,AS16509 Amazon.com, Inc.
+13.53.81.150:2083,Amazon Technologies Inc.,Stockholm,Sweden (SE) ðŸ‡¸ðŸ‡ª,AS16509 Amazon.com, Inc.
+204.110.220.135:80,Amazon.com, Inc.,Portland,United States (US) ðŸ‡ºðŸ‡¸,AS16509 Amazon.com, Inc.
+13.50.173.22:8443,Amazon Technologies Inc.,Stockholm,Sweden (SE) ðŸ‡¸ðŸ‡ª,AS16509 Amazon.com, Inc.
+13.53.51.77:8080,Amazon Technologies Inc.,Stockholm,Sweden (SE) ðŸ‡¸ðŸ‡ª,AS16509 Amazon.com, Inc.
+204.110.221.78:80,Amazon.com, Inc.,Portland,United States (US) ðŸ‡ºðŸ‡¸,AS16509 Amazon.com, Inc.
+3.98.54.22:8443,Amazon Technologies Inc.,Toronto,Canada (CA) ðŸ‡¨ðŸ‡¦,AS16509 Amazon.com, Inc.
+18.135.188.86:443,Amazon Technologies Inc.,London,United Kingdom (GB) ðŸ‡¬ðŸ‡§,AS16509 Amazon.com, Inc.
+13.53.132.96:8080,Amazon Technologies Inc.,Stockholm,Sweden (SE) ðŸ‡¸ðŸ‡ª,AS16509 Amazon.com, Inc.
+35.167.93.200:443,Amazon.com, Inc.,Portland,United States (US) ðŸ‡ºðŸ‡¸,AS16509 Amazon.com, Inc.
+50.112.166.63:443,Amazon.com, Inc.,Portland,United States (US) ðŸ‡ºðŸ‡¸,AS16509 Amazon.com, Inc.
+3.98.73.243:443,Amazon Technologies Inc.,Toronto,Canada (CA) ðŸ‡¨ðŸ‡¦,AS16509 Amazon.com, Inc.
+15.156.203.151:8443,Amazon.com, Inc.,Toronto,Canada (CA) ðŸ‡¨ðŸ‡¦,AS16509 Amazon.com, Inc.
+204.110.221.112:80,Amazon.com, Inc.,Portland,United States (US) ðŸ‡ºðŸ‡¸,AS16509 Amazon.com, Inc.
+18.189.94.250:443,Amazon.com, Inc.,Dublin,United States (US) ðŸ‡ºðŸ‡¸,AS16509 Amazon.com, Inc.
+13.201.221.231:443,Amazon.com, Inc.,Mumbai,India (IN) ðŸ‡®ðŸ‡³,AS16509 Amazon.com, Inc.
+15.157.7.168:443,Amazon.com, Inc.,Toronto,Canada (CA) ðŸ‡¨ðŸ‡¦,AS16509 Amazon.com, Inc.
+3.111.155.29:443,Amazon Technologies Inc.,Mumbai,India (IN) ðŸ‡®ðŸ‡³,AS16509 Amazon.com, Inc.
+44.227.22.10:443,Amazon.com, Inc.,Portland,United States (US) ðŸ‡ºðŸ‡¸,AS16509 Amazon.com, Inc.
+3.99.106.179:443,Amazon Technologies Inc.,Toronto,Canada (CA) ðŸ‡¨ðŸ‡¦,AS16509 Amazon.com, Inc.
+99.83.209.185:443,Amazon.com, Inc.,Seattle,United States (US) ðŸ‡ºðŸ‡¸,AS16509 Amazon.com, Inc.
